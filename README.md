@@ -28,9 +28,7 @@ We start with the hacker bank account in negative
 
 
 
-
-
-![Kali linux negative account](https://github.com/TheRashaSharif/Offensive-Ethical-Hacking_101/assets/98124961/45aecdf3-f029-4808-a06a-dea7b88a0f25)
+![Kali linux negative account](https://github.com/TheRashaSharif/Offensive-Ethical-Hacking_101/assets/98124961/1c5a8c26-eb2d-4e83-b96e-7e8025c0dd18)
 
 
 <p align="center">!
@@ -41,31 +39,25 @@ Start the command line and type gobuster -u http://fakebank.com -w wordlist.txt 
  
   
   
-  
-  ![EH commandline](https://github.com/TheRashaSharif/Offensive-Ethical-Hacking_101/assets/98124961/adb5e584-f289-40ec-917d-30b19384a810)
+  ![EH commandline](https://github.com/TheRashaSharif/Offensive-Ethical-Hacking_101/assets/98124961/c4ca5ee4-f390-4642-8e5d-39e3ffc497bb)
 
- 
   
-<img src="C:![Uploading EH commandline.PNG…]()
-\Users\User\Pictures\EH commandline.PNG" height="80%" width="80%" />
-<br />
 <br />
 This command will find pages that exist on the site. it is /bank-transfer that allows to transfer between accounts
   You know it is the page indicated by status :200
   
  
-<br />![Kali linix 2](https://github.com/TheRashaSharif/Offensive-Ethical-Hacking_101/assets/98124961/b8c09ef3-1eca-43ac-af01-eb5599707b33)
 
-<br />
-  
+  ![Kali linix 2](https://github.com/TheRashaSharif/Offensive-Ethical-Hacking_101/assets/98124961/d64830f9-9e88-47ed-bd2e-c5bfd67ab9aa)
+
   When launching the page by adding bank-transfer to the fakebank.com URL an admin portal is open and for the project purpose, we can transfer from one bank account to another. The results will be amazing as the hacker's negative account is positive again after the transfer!
   
   
   
 
-<br />![Kali linux final hack](https://github.com/TheRashaSharif/Offensive-Ethical-Hacking_101/assets/98124961/912aeab9-f686-432c-b25a-62d01cafc31f)
+![Kali linux final hack](https://github.com/TheRashaSharif/Offensive-Ethical-Hacking_101/assets/98124961/9520f114-bd0b-45a4-8670-e911b940d56a)
 
-<br />
+
 Finally, this was an example to show how hackers can find vulnerabilities in a system, and as a red team ethical hacker, you can mock their techniques.
  
   
